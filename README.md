@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 - 🔭 Currently working on **a private project**
 - 🤝 Open to collaborate on **any Frontend or Backend project**
-- 📫 Reach me at: **pinecode827@gmail.com**
+- 📫 Reach me at: **glitchc137@gmail.com**
 - ⚡ Fun fact: **Humans can’t breathe with their tongues out 😁**
 
 ---
@@ -21,4 +21,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" style="margin: 10px;"/>
   <img src="https://skillicons.dev/icons?i=express&theme=light" alt="Express.js" width="45" height="45" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySql" width="45" height="45" style="margin: 10px;"/>
 </p>
