@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 - 🔭 Currently working on **a private project**
 - 🤝 Open to collaborate on **any Frontend or Backend project**
-- 📫 Reach me at: **glitchc137@gmail.com**
+- 📫 Reach me at: **abrhamyalew@protonmail.com**
 - ⚡ Fun fact: **Humans can’t breathe with their tongues out 😁**
 
 ---
