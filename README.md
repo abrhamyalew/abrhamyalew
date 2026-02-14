@@ -24,6 +24,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45" style="margin: 10px;"/>
 </p>
+
 <p align="center">
-    ![Profile view counter on GitHub]https://komarev.com/ghpvc/?username=abrhamyalew)
+  <img src="https://komarev.com/ghpvc/?username=abrhamyalew&style=flat" />
 </p>
